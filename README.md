@@ -1,4 +1,4 @@
-# ClientInsight 📊
+# Client Insight 📊
 
 This is a small data project I created while learning data analysis and basic machine learning in Python.
 
