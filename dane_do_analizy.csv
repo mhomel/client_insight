@@ -1,0 +1,101 @@
+ID,Wiek,Płeć,Dochód (zł),Zadowolenie (1-5),Miasto,Komentarz
+1,56,Kobieta,4485.93,1,Poznań,Bardzo zadowolony
+2,69,Kobieta,3796.58,1,Kraków,Słaba jakość
+3,46,Kobieta,4758.07,3,Warszawa,Bardzo zadowolony
+4,32,Inne,5606.08,5,Wrocław,nan
+5,60,Kobieta,7829.28,2,Wrocław,Super usługa
+6,25,Kobieta,5261.87,2,Gdańsk,nan
+7,38,Inne,5386.33,3,Kraków,Bardzo zadowolony
+8,56,Inne,4888.33,2,Warszawa,Bardzo zadowolony
+9,36,Inne,2121.84,1,Gdańsk,Nie polecam
+10,40,Kobieta,4960.23,5,Poznań,Nie polecam
+11,28,Inne,5090.35,4,Gdańsk,nan
+12,28,Inne,8694.86,2,Gdańsk,Bez szału
+13,41,Kobieta,4711.46,1,Kraków,nan
+14,53,Inne,5452.32,4,Poznań,Nie polecam
+15,57,Kobieta,4947.93,5,Gdańsk,Bardzo zadowolony
+16,41,Mężczyzna,3246.98,4,Warszawa,Jest ok
+17,20,Inne,6714.23,1,Warszawa,nan
+18,39,Mężczyzna,6127.9,4,Wrocław,Bardzo zadowolony
+19,19,Kobieta,6186.55,3,Poznań,Jest ok
+20,41,Inne,3635.92,4,Poznań,Jest ok
+21,61,Kobieta,7104.19,2,Wrocław,Nie polecam
+22,47,Mężczyzna,2897.22,2,Gdańsk,nan
+23,55,Kobieta,5880.29,3,Poznań,Słaba jakość
+24,19,Inne,8285.68,1,Warszawa,Super usługa
+25,38,Inne,3514.2,2,Warszawa,Nie polecam
+26,50,Mężczyzna,4150.55,5,Kraków,Nie polecam
+27,29,Kobieta,5149.48,2,Poznań,Słaba jakość
+28,39,Inne,4244.79,2,Gdańsk,Super usługa
+29,61,Mężczyzna,2674.0,1,Wrocław,Bardzo zadowolony
+30,42,Inne,5102.84,4,Wrocław,Bez szału
+31,66,Inne,3406.54,2,Gdańsk,nan
+32,44,Kobieta,5710.39,3,Kraków,Bez szału
+33,59,Inne,3620.86,4,Wrocław,Bardzo zadowolony
+34,45,Kobieta,7324.9,5,Poznań,Nie polecam
+35,33,Inne,3825.12,1,Kraków,Super usługa
+36,32,Mężczyzna,4516.91,5,Poznań,Nie polecam
+37,64,Inne,6220.28,4,Warszawa,Jest ok
+38,68,Kobieta,3153.7,4,Kraków,Nie polecam
+39,61,Kobieta,5341.19,4,Wrocław,Nie polecam
+40,69,Mężczyzna,6960.71,5,Kraków,Bardzo zadowolony
+41,20,Inne,2588.78,4,Kraków,Bardzo zadowolony
+42,54,Inne,5276.95,5,Kraków,Bardzo zadowolony
+43,68,Mężczyzna,5389.82,4,Kraków,Bez szału
+44,24,Inne,6172.73,3,Poznań,Jest ok
+45,38,Inne,3144.57,4,Warszawa,Bardzo zadowolony
+46,26,Kobieta,3019.32,5,Gdańsk,Super usługa
+47,56,Inne,5782.91,2,Kraków,Bez szału
+48,35,Inne,5445.48,4,Wrocław,Słaba jakość
+49,21,Mężczyzna,5375.74,2,Kraków,Super usługa
+50,42,Mężczyzna,5519.67,3,Wrocław,nan
+51,31,Kobieta,3979.96,1,Poznań,nan
+52,67,Inne,5348.38,3,Wrocław,Super usługa
+53,26,Inne,5439.61,4,Gdańsk,Bardzo zadowolony
+54,43,Inne,3928.47,2,Warszawa,Słaba jakość
+55,19,Kobieta,7798.66,2,Wrocław,Słaba jakość
+56,37,Kobieta,5710.75,5,Wrocław,Bez szału
+57,45,Mężczyzna,3213.04,2,Warszawa,Słaba jakość
+58,64,Kobieta,5984.83,5,Gdańsk,nan
+59,24,Inne,3537.98,1,Kraków,Jest ok
+60,61,Inne,6180.63,4,Wrocław,Bardzo zadowolony
+61,25,Kobieta,6737.89,5,Warszawa,Słaba jakość
+62,64,Inne,3768.98,1,Poznań,Bez szału
+63,52,Inne,6445.06,2,Warszawa,nan
+64,31,Kobieta,5619.17,2,Poznań,Jest ok
+65,34,Kobieta,6233.09,1,Gdańsk,Nie polecam
+66,53,Inne,7845.19,2,Kraków,Nie polecam
+67,67,Inne,4631.92,1,Warszawa,Jest ok
+68,57,Inne,3869.4,5,Wrocław,nan
+69,21,Mężczyzna,3665.73,5,Gdańsk,Bez szału
+70,19,Mężczyzna,3776.28,1,Warszawa,Jest ok
+71,23,Mężczyzna,4884.35,5,Wrocław,Bardzo zadowolony
+72,59,Kobieta,5511.73,5,Warszawa,Bardzo zadowolony
+73,21,Mężczyzna,5415.04,5,Poznań,Nie polecam
+74,46,Kobieta,6240.77,3,Warszawa,Słaba jakość
+75,35,Kobieta,5019.5,4,Warszawa,Bez szału
+76,43,Mężczyzna,7180.3,2,Warszawa,Nie polecam
+77,61,Mężczyzna,4603.01,3,Gdańsk,Słaba jakość
+78,51,Mężczyzna,9080.25,5,Warszawa,Słaba jakość
+79,27,Inne,5938.5,1,Wrocław,Bardzo zadowolony
+80,53,Mężczyzna,3714.26,5,Poznań,nan
+81,31,Inne,3393.66,4,Poznań,Super usługa
+82,48,Kobieta,5723.71,5,Warszawa,nan
+83,65,Inne,4664.81,1,Gdańsk,Super usługa
+84,32,Mężczyzna,6071.0,4,Gdańsk,Jest ok
+85,25,Kobieta,5709.86,5,Wrocław,Bardzo zadowolony
+86,31,Kobieta,4890.76,4,Warszawa,Słaba jakość
+87,40,Kobieta,3729.81,2,Poznań,Bez szału
+88,57,Inne,2727.73,2,Gdańsk,Super usługa
+89,38,Mężczyzna,4330.23,5,Warszawa,nan
+90,33,Kobieta,6284.6,4,Gdańsk,Słaba jakość
+91,62,Kobieta,5321.14,1,Gdańsk,Super usługa
+92,35,Kobieta,3131.39,5,Poznań,Super usługa
+93,64,Inne,5259.77,2,Kraków,Super usługa
+94,41,Inne,5577.98,2,Wrocław,Bez szału
+95,43,Mężczyzna,3674.21,5,Wrocław,Bardzo zadowolony
+96,42,Inne,5230.59,4,Poznań,Bez szału
+97,62,Kobieta,5087.31,2,Gdańsk,Nie polecam
+98,58,Mężczyzna,3285.54,4,Warszawa,Słaba jakość
+99,46,Kobieta,5536.68,2,Gdańsk,Bardzo zadowolony
+100,32,Kobieta,5841.18,2,Poznań,Bardzo zadowolony
